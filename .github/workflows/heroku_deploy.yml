@@ -14,5 +14,4 @@ jobs:
           heroku_app_name: '${{ secrets.HEROKU_APP_NAME }}'
           useforce: true
           dynamicFiles: true
-          env_file: sample.config.env
           
