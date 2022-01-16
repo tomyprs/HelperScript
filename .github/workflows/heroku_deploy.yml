@@ -15,4 +15,4 @@ jobs:
           useforce: true
           dynamicFiles: true
           env_file: sample.config.env
-          buildpacks: "https://github.com/heroku/heroku-buildpack-python"
+          buildpacks: "[https://github.com/heroku/heroku-buildpack-python]"
